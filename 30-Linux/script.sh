@@ -1,0 +1,2 @@
+variable ="Hello"
+echo $variable
